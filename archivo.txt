@@ -1,2 +1,7 @@
 Mi primer Programa
+<<<<<<< HEAD
 cambios main
+=======
+La nueva etapa
+rama c
+>>>>>>> ramac
